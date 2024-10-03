@@ -2,7 +2,7 @@ clc;
 clear all;
 close all;
 x=[1 1 1 0];
-N=16;
+N=4;
 xp=[x zeros(1,N-length(x))];
 X=zeros(N,1);
 for k=0:N-1
@@ -12,7 +12,7 @@ for k=0:N-1
 end
 disp(X);
 disp(round(X));
-disp(fft(X));
+disp(fft(x));
 mg=abs(X);
 phasex=angle(X);
 disp("magnitude");
