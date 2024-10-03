@@ -1,0 +1,18 @@
+clc;
+clear all;
+close all;
+x1=[1 2 3 4];
+x2=[1 1 1];
+a=2;
+b=3;
+l=length(x1);
+m=length(x2);
+n=max(l,m);
+x1p=[x1 zeros(1,n-l)];
+x2p=[x2 zeros(1,n-m)];
+lhs=fft(a.*x1p+b.*x2p);
+disp(lhs);
+X1=fft(x1p);
+X2=fft(x2p);
+rhs=a*X1+b*X2;
+disp(rhs);
