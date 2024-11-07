@@ -1,10 +1,10 @@
-Aim:
+# Aim:
 Verify following properties of DFT using Matlab/Scilab.
 1.Linearity Property
 2.Parsevals Theorem
 3.Convolution Property
 4.Multiplication Property
-Theory:
+# Theory:
 1. Linearity Property
 The linearity property of the DFT states that if you have two sequences x1[n] and x2[n], and
 their corresponding DFTs are X1[k] and X2[k], then for any scalar a and b:
