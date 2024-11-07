@@ -1,7 +1,7 @@
-Aim:
+# Aim:
 1. To perform Linear Convolution using Circular Convolution.
 2. To perform Circular Convolution using Linear Convolution.
-Theory:
+# Theory:
 Performing Linear Convolution Using Circular Convolution
 Method:
 1. Zero-Padding:
@@ -46,7 +46,7 @@ o Perform linear convolution. The result will be [4, 13, 21, 15, 0].
 3. Modulus Operation:
 o Apply the modulus operation to the indices: [4, 13, 21, 15, 0] becomes [4,
 13, 2, 15, 0].
-Observation:
+# Observation:
 1. Linear Convolution Using Circular Convolution
 1. 3. 6. 9. 7. 4.
 2. Circular Convolution Using Linear Convolution
