@@ -1,8 +1,8 @@
-Aim:
+# Aim:
 1.DFT using inbuilt function and without using inbuilt function. Also plot magnitude and phase
 plot of DFT
 2.IDFT using inbuilt function and without using inbuilt function.
-Theory:
+# Theory:
 Discrete Fourier Transform (DFT)
  The Discrete Fourier Transform (DFT) is a mathematical transformation used to analyze
 the frequency content of discrete signals. For a sequence x[n] of length N, the DFT is defined
@@ -58,7 +58,7 @@ Application
 • Restoration
 • Detection
 • Estimation
-Observation:
+# Observation:
 1.DFT
 enter sequence:[1 1 1 0]
 enter the N point:8
