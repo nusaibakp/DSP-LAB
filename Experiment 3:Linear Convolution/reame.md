@@ -1,11 +1,11 @@
-Aim:
+# Aim:
 To find linear convolution of following sequences with and without built in
 function.
 1. x(n) = [1 2 1 1]
  h(n) = [1 1 1 1]
 2. x(n) = [1 2 1 2]
  h(n) = [3 2 1 2]
-Theory:
+# Theory:
 Linear convolution is a mathematical operation used to combine two signals to produce
 a third signal. It's a fundamental operation in signal processing and systems theory.
 Mathematical Definition:
