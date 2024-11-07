@@ -1,6 +1,6 @@
-Aim:
+# Aim:
 To verify Sampling Theorem.
-Theory:
+# Theory:
 The Sampling Theorem, also known as the Nyquist-Shannon Sampling Theorem, states
 that a continuous signal can be completely reconstructed from its samples if the
 sampling frequency is greater than twice the highest frequency present in the signal.
