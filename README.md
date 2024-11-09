@@ -13,5 +13,8 @@ MATLAB
 7. Properties of DFT
 8. Overlap Add and Overlap Save Method
 9. Implementation of FIR Filter
+10. Familiarization of DSP Hardware
+11. Generation of Sine Wave using DSP Kit
+12. Linear Convolution using DSP Kit
     
 	
