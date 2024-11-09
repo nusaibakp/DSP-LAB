@@ -9,7 +9,9 @@ MATLAB
 3. Linear Convolution
 4. Circular Convolution
 5. Linear Convolution using Circular Convolution and vice versa
-6.DFT and IDFT		
-7.Properties of DFT		
-8.Overlap Add and Overlap Save Method		
-9.Implementation of FIR Filter	
+6. DFT and IDFT
+7. Properties of DFT
+8. Overlap Add and Overlap Save Method
+9. Implementation of FIR Filter
+    
+	
