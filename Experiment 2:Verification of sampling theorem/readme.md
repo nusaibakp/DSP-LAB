@@ -14,5 +14,6 @@ Applications:
 • Communication systems
 • Image processing
 • Medical imaging
+# Observation
 ![lab2_output](https://github.com/user-attachments/assets/c9734562-6ee9-4e2e-8dd0-825c3bba4d47)
 
