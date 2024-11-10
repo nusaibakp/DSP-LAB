@@ -1,3 +1,4 @@
+![lab1](https://github.com/user-attachments/assets/4f445156-2d46-4ea7-b2f6-09c9a1ecf245)
 # Aim:
 To generate continuous and discrete waveforms for the following:
 1. Unit Impulse Signal
