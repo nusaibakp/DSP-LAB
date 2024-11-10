@@ -44,11 +44,11 @@ Disadvantages:
 •	Trade-Off Limitations: Some applications require specific frequency responses that cannot be perfectly achieved using standard windows.
 
 # Observation:
-lowpass
+## lowpass
 ![lowpass](https://github.com/user-attachments/assets/3c59cc97-3dc0-4beb-bffe-164eb3b76d31)
-highpass
+## highpass
 ![highpass](https://github.com/user-attachments/assets/298230fb-bc9b-4d3c-b6cb-fcf4af2fcb04)
-bandstop
+## bandstop
 ![bandstop](https://github.com/user-attachments/assets/3046b33a-69e9-419b-8df1-b3b2faa9b46a)
-bandpass
+## bandpass
 ![bandpass](https://github.com/user-attachments/assets/cbacc824-a76e-46db-93c8-910cc0bbc5fe)
