@@ -1,4 +1,4 @@
-![concentriccircle](https://github.com/user-attachments/assets/029c371f-5d5a-4792-8a2d-0e2d41d9cc3e)# Aim:
+# Aim:
 To find circular convolution
 1. Using FFT and IFFT.
 2. Using Concentric Circle Method.
@@ -20,4 +20,5 @@ convolution.
 ![concentriccircle](https://github.com/user-attachments/assets/0f5f7266-1920-4496-9f85-971476331885)
 ![using fft and ifft](https://github.com/user-attachments/assets/c92b6d14-7590-43eb-8714-178bf3ac97f5)
 ![matrixmethord](https://github.com/user-attachments/assets/568d70f1-4c62-4831-89fa-280e2621b622)
+
 
