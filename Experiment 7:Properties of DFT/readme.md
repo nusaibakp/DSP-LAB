@@ -31,8 +31,8 @@ corresponds to circular convolution in the frequency domain:
 DFT{x1[n]⋅x2[n]} = 𝟏
 𝑵
 DFT{x1[n]}⊛DFT{x2[n]}
-Observation:
-1. Linearity Property
+# Observation:
+## 1. Linearity Property
 enter first sequence[1 2 3 4]
 enter sequence sequence:[1 1 1 1]
 x =
@@ -44,7 +44,7 @@ LHS
 RHS
  32.0000 + 0.0000i -4.0000 + 4.0000i -4.0000 + 0.0000i -4.0000 - 4.0000i
 Linearity property verified
-2. Parseval's Theorem
+## 2. Parseval's Theorem
 enter first sequence:[1 2 3 4]
 enter second sequence:[1 1 1 1]
 LHS
@@ -52,7 +52,7 @@ LHS
 RHS
  10
 Parseval's Theorem verified
-3.Convolution Property
+## 3.Convolution Property
 enter first sequence[1 2 3 4]
 enter sequence sequence:[1 1 1 1]
 LHS
@@ -60,7 +60,7 @@ LHS
 RHS
  10 10 10 10
 Circular Convolution verified
-4.Multiplication Property
+## 4.Multiplication Property
 enter first sequence[1 2 3 4]
 enter sequence sequence:[1 1 1 1]
 LHS
