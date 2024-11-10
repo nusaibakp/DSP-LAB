@@ -62,5 +62,7 @@ Application
 
 idft:
 ![idft](https://github.com/user-attachments/assets/f697da22-4c6e-446b-8e89-cafc6c5e9e4c)
-dft,idft:![Uploading dft,idft.png…]()
+dft,idft
+![dft,idft](https://github.com/user-attachments/assets/32d344dc-3b53-4fcc-9162-14f976b02499)
+
 
