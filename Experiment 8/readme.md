@@ -43,3 +43,6 @@ Using Overlap and Save method
 Verification
  3.0000 2.0000 2.0000 0 4.0000 6.0000 5.0000 3.0000 3.0000 4.0000
 3.0000 1.0000
+# Observation
+overlap add
+![overlapadd,add](https://github.com/user-attachments/assets/250837f1-37c9-4221-a8f9-5bdd24262256)
