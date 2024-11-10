@@ -44,7 +44,8 @@ Disadvantages:
 •	Trade-Off Limitations: Some applications require specific frequency responses that cannot be perfectly achieved using standard windows.
 
 # Observation:
-lowpass![lowpass](https://github.com/user-attachments/assets/3c59cc97-3dc0-4beb-bffe-164eb3b76d31)
+lowpass
+![lowpass](https://github.com/user-attachments/assets/3c59cc97-3dc0-4beb-bffe-164eb3b76d31)
 highpass
 ![highpass](https://github.com/user-attachments/assets/298230fb-bc9b-4d3c-b6cb-fcf4af2fcb04)
 bandstop
