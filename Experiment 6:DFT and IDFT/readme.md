@@ -58,4 +58,8 @@ Application
 • Restoration
 • Detection
 • Estimation
+# Observation
+
+idft:
+![idft](https://github.com/user-attachments/assets/f697da22-4c6e-446b-8e89-cafc6c5e9e4c)
 
